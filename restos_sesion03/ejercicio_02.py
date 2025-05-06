@@ -1,0 +1,6 @@
+print("Pablo : ¡Hola, michi!")
+print("Michi: Hola, Karencio!")
+print("Pablo: Que hiciste hoy michi?")
+print("Michi: Solo rompi tus adornos y te traje un regalo ")
+print("Pablo: No te hubieras molestado por regalarme un raton, gracias amigo, ya me voy nos vemos mas tarde")
+print("Michi: Chau humano, y no te apresures, soy feliz solo")
