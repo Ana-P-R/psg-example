@@ -1,4 +1,5 @@
 total_segundos = 1000000
+
 semanas = total_segundos // (7 * 24 * 3600)
 resto = total_segundos % (7 * 24 * 3600)
 
