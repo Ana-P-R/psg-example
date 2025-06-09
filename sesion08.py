@@ -84,7 +84,13 @@ print ("Método index(valor)")
 tupla = (1,2.0, "hola", True)
 print (tupla.index(2.0))
 print (tupla.index("hola"))
-#
+
+print ("Método count(valor)")
+tupla = (1, 2.0, "hola", False, "hola", "HOLA")
+print (tupla.count(1))
+print (tupla.count("hola"))
+print (tupla.count(10))
+
 print ("Función len()")
 tupla = (1,2.0, "hola", True)
 longitud = len(tupla)
@@ -101,7 +107,13 @@ tupla = ("a","z","c","b","f","d")
 minimo = min(tupla)
 print (tupla)
 print (minimo)
-#
+
+print ("Función sum()")
+tupla = (1.0, 0.5, 2.5, 3.1)
+suma = sum(tupla)
+print (tupla)
+print (suma)
+
 print ("Tuplas anidadas")
 tupla = (1,2,3, (4,5,6))
 print (tupla)
